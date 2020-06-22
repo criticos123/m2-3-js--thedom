@@ -55,7 +55,8 @@ main {
   justify-content: center;
   height: 50px;
   width: 50px;
-  position: relative;
+  background-image: url("frogx50.png");
+  position: absolute;
   left: 0;
   transition: all ease-out 300ms;
 }
